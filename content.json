@@ -1,0 +1,23 @@
+{
+  "name": "阅读教科书Demo版",
+  "desc": "",
+  "keywords": ["阅读"],
+  "cover": "cover.jpg",
+  "tags": ["基础", "入门"],
+  "lang": "",
+  "chapters": [
+    {
+      "name": "第二章",
+      "subtitle": "题型方法论：目的题，态度题， 和证据题",
+      "content": "Chapter2.md",
+      "sections": [
+        {"name":"温馨提示"},
+        {"name":"态度题解题方法论"},
+        {"name":"证据题（Evidence题）方法论"},
+        {"name":"目的题整体方法论"},
+        {"name":"修辞类目的题解题技巧和例题"},
+        {"name":"特殊目的题解题技巧和例题"}
+      ]
+    }
+  ]
+}
